@@ -1,5 +1,4 @@
 ﻿using System;
-
 class MyMatrix
 {
     int[,] matrixaa;
