@@ -1,5 +1,4 @@
 ﻿using System;
-
 struct Vector
 {
     double x;
